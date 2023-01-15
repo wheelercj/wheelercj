@@ -28,8 +28,6 @@ Here are some of my projects:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typeScript&style=for-the-badge&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=for-the-badge&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&style=for-the-badge&logoColor=white)

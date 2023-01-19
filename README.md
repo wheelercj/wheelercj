@@ -2,8 +2,6 @@ Hi! I'm Chris Wheeler, a CSUN Computer Science student and a tutor for L.A. Vall
 
 I'm interested in many things including backend web, desktop, and systems development, language design, and teaching computer science. I've always wanted to be some kind of inventor; someone that makes things that are useful and make people happy. Now I'm finally able to do that by creating software and sharing what I've learned.
 
-Check out [my site](https://wheelercj.github.io/notes/) for tons of free textbooks, computer science guides, and more.
-
 Here are some of my projects:
 
 * [MovieFinder](https://github.com/chizuo/COMP587-MovieApplication) – a movie recommender that improves with the user’s habits (Python, Qt for Python, web)
@@ -16,7 +14,7 @@ Here are some of my projects:
 * [Terminal Paint](https://github.com/wheelercj/terminal-paint) – like Windows Paint but in the terminal and with any Unicode characters (C++)
 * [Aurora](https://github.com/wheelercj/aurora) – a static site generator using file formats commonly used by researchers (Python, HTML, CSS)
 * [Radix Converter](https://github.com/wheelercj/Radix-Converter) – converts numbers between any bases with support for fractional numbers, mixed bases, custom symbols, and variable precision (C++)
-* [futuremail](https://github.com/wheelercj/futuremail) – an automated emailing library that uses the SMTP and IMAP protocols (Python)
+* [futuremail](https://github.com/wheelercj/futuremail) – an automated emailing library that works with all email services (Python)
 
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=for-the-badge&logoColor=white)

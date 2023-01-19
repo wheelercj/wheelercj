@@ -1,6 +1,6 @@
 Hi! I'm Chris Wheeler, a CSUN Computer Science student and a tutor for L.A. Valley College.
 
-I'm interested in many things including backend web, desktop, and systems development, language design, and teaching computer science. I've always wanted to be some kind of inventor; someone that makes things that are useful and make people happy. Now I'm finally starting to be able to do that by creating software and sharing what I've learned.
+I'm interested in many things including backend web, desktop, and systems development, language design, and teaching computer science. I've always wanted to be some kind of inventor; someone that makes things that are useful and make people happy. Now I'm finally able to do that by creating software and sharing what I've learned.
 
 Check out [my site](https://wheelercj.github.io/notes/) for tons of free textbooks, computer science guides, and more.
 

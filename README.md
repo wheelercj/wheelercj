@@ -1,7 +1,5 @@
 Hi! I'm Chris Wheeler, a recent CSUN Computer Science grad and Computer Science tutor.
 
-I'm interested in many things including backend web, desktop, and systems development, language design, and teaching computer science. I've always wanted to be some kind of inventor; someone that makes things that are useful and make people happy. Now I'm finally able to do that by creating software and sharing what I've learned.
-
 Here are some of my projects:
 
 * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux)

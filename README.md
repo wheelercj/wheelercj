@@ -7,7 +7,7 @@ Here are some of my projects:
 * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
 * [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Linux)
-* [Postman to Markdown](https://github.com/wheelercj/postman-to-markdown) – convert a Postman collection to markdown documentation (Go)
+* [Postman to Markdown](https://github.com/wheelercj/pm-md) – convert a Postman collection to markdown documentation (Go)
 * [Chris’ Notes](http://tinyurl.com/CoSciNotes) – Dev guides such as [intro to recursion](https://wheelercj.github.io/notes/pages/20220502232349.html) and [getting started with Git and GitHub](https://wheelercj.github.io/notes/pages/20210907144216.html)
 * [Algorithms](https://github.com/wheelercj/Algorithms) – various algorithms, data structures, and tests for them (C++, Go, Java, Python)
 * [zq](https://github.com/wheelercj/zq) – a timer for easy Zoom meeting queueing (Python, Qt for Python, SQLite)

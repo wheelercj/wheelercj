@@ -1,13 +1,13 @@
-Hi! I'm Chris Wheeler, a recent CSUN Computer Science grad and Computer Science tutor.
+Hi! I'm Chris Wheeler, a freelance software engineer.
 
-I'm capable in many topics including fullstack web, script, system, desktop, and compiler development. I've always wanted to be some kind of inventor; someone that makes things that are useful and make people happy. Now I'm finally able to do that by creating software and sharing what I've learned.
+I am capable in many topics including fullstack web, script, system, desktop, and compiler development. I've always wanted to be some kind of inventor; someone that makes things that are useful and make people happy. Now I'm finally able to do that by creating software and sharing what I've learned.
 
 Here are some of my projects:
 
 * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
-* [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Linux)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)
+* [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Linux)
 * [Chris’ Notes](http://tinyurl.com/CoSciNotes) – Dev guides such as [intro to recursion](https://wheelercj.github.io/notes/pages/20220502232349.html) and [getting started with Git and GitHub](https://wheelercj.github.io/notes/pages/20210907144216.html)
 * [Algorithms](https://github.com/wheelercj/Algorithms) – various algorithms, data structures, and tests for them (C++, Go, Java, Python)
 * [zq](https://github.com/wheelercj/zq) – a timer for easy Zoom meeting queueing (Python, Qt for Python, SQLite)

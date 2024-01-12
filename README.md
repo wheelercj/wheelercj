@@ -5,6 +5,7 @@ I am capable in many topics including fullstack web, script, system, desktop, an
 Here are some of my projects:
 
 * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux)
+* [email-linter](https://github.com/wheelercj/email-linter) – a command-line tool that makes it easy to find spam and phishing emails received at single-use email addresses (Go, JMAP)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)
 * [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Linux)
@@ -21,9 +22,9 @@ Here are some of my projects:
 
 <!-- Logo names used by shields.io: https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 <!-- The hex number after the logo name is the badge's color. More options and details here: https://shields.io/badges/endpoint-badge -->
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=for-the-badge&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/C-4640b8.svg?logo=C&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&style=for-the-badge)

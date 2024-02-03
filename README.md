@@ -3,7 +3,7 @@ Hi! I'm Chris Wheeler. Check out [my blog](https://chriswheeler.dev).
 Here are some of my projects:
 
 * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux)
-* [email-linter](https://github.com/wheelercj/email-linter) – a command-line tool that makes it easy to find spam and phishing emails received at single-use email addresses (Go, JMAP)
+* [email-linter](https://github.com/wheelercj/email-linter) – a command-line tool that makes it easy to find spam and phishing emails received at disposable email addresses (Go, JMAP)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)
 * [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Linux)

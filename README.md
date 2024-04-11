@@ -5,7 +5,7 @@ Here are some of my projects:
 <!-- * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux) -->
 * [Stardown](https://github.com/wheelercj/Stardown) - a browser extension that copies a markdown link for the current page (JavaScript, HTML/CSS)
 * [email-linter](https://github.com/wheelercj/email-linter) – a command-line tool for detecting spam and phishing emails received at disposable email addresses (Go, JMAP)
-* [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Linux)
+* [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Docker)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
 * [zq](https://github.com/wheelercj/zq) – a timer for easy Zoom meeting queueing (Python, Qt for Python, SQLite)

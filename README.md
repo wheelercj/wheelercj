@@ -3,7 +3,7 @@ Hi! I'm Chris Wheeler. Check out [my blog](https://chriswheeler.dev).
 Here are some of my projects:
 
 <!-- * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux) -->
-* [Stardown](https://github.com/wheelercj/Stardown) - copy the web as markdown (JavaScript, Go, HTML/CSS, PostgreSQL)
+* [Stardown](https://github.com/Stardown-app/Stardown) - copy the web as markdown (JavaScript, Go, HTML/CSS, PostgreSQL)
 * [email-linter](https://github.com/wheelercj/email-linter) – a command-line tool for detecting spam and phishing emails received at disposable email addresses (Go, JMAP)
 * [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Docker)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)

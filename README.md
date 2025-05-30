@@ -4,7 +4,7 @@ Here are some of my projects:
 
 <!-- * [URL shortener](https://makemeshort.buzz/) – a full-stack link shortener with marketing tools (JavaScript, Node.js, MySQL, HTML/CSS, Linux) -->
 * [Stardown](https://github.com/Stardown-app/Stardown) - copy the web as markdown (JavaScript, Go, HTML/CSS, PostgreSQL)
-* [email-linter](https://github.com/wheelercj/email-linter) – a command-line tool for detecting spam and phishing emails received at disposable email addresses (Go, JMAP)
+* [Email Linter](https://github.com/wheelercj/email-linter) – a command-line tool for detecting spam and phishing emails received at disposable email addresses (Go, JMAP)
 * [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Docker)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
@@ -20,12 +20,10 @@ Here are some of my projects:
 
 <!-- Logo names used by shields.io: https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 <!-- The hex number after the logo name is the badge's color. More options and details here: https://shields.io/badges/endpoint-badge -->
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=for-the-badge&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
-![C](https://img.shields.io/badge/C-4640b8.svg?logo=C&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120.svg?logo=C-sharp&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=for-the-badge&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white)
@@ -37,7 +35,4 @@ Here are some of my projects:
 ![Docker](https://img.shields.io/badge/docker-white.svg?logo=docker&style=for-the-badge&logoColor=039bfb)
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=for-the-badge)
-![macOS](https://img.shields.io/badge/-Mac-5a5a5a.svg?logo=macos&style=for-the-badge)
-![freebsd](https://img.shields.io/badge/freebsd-d30000.svg?logo=freebsd&style=for-the-badge)
-![virtualbox](https://img.shields.io/badge/virtualbox-16355e.svg?logo=virtualbox&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&style=for-the-badge&logoColor=white)

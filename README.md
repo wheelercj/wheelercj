@@ -6,6 +6,7 @@ Here are some of my projects:
 * [Email Linter](https://github.com/wheelercj/email-linter) – a command-line tool for detecting spam and phishing emails received at disposable email addresses (Go, JMAP)
 * [Parhelion](https://github.com/wheelercj/Parhelion) – a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Docker)
 * [todo](https://github.com/wheelercj/todo) - a command-line tool that creates new Todoist tasks (Python)
+* [find-restic-anchor](https://github.com/wheelercj/find-restic-anchor) - find the largest files in your latest Restic backup (Python)
 * [pm2md](https://github.com/wheelercj/pm2md) – a command-line tool for converting a Postman collection to markdown documentation (Go)
 * [Note Splitter](https://github.com/wheelercj/note-splitter) – a desktop app for research workflow automation using a custom lexer and parser (Python, Qt for Python)
 * [zq](https://github.com/wheelercj/zq) – a timer for easy Zoom meeting queueing (Python, Qt for Python, SQLite)

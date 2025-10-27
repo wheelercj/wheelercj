@@ -5,6 +5,7 @@ Here are some of my projects:
 * [Stardown](https://github.com/Stardown-app/Stardown) - copy the web as markdown (JavaScript, HTML/CSS, PostgreSQL)
 * [Email Linter](https://github.com/wheelercj/email-linter) - a command-line tool for detecting spam and phishing emails received at masked email addresses (Go, JMAP)
 * [find-restic-anchor](https://github.com/wheelercj/find-restic-anchor) - figure out why your latest Restic backup took longer (Python)
+* [upgrade-ubuntu](https://github.com/wheelercj/upgrade-ubuntu) - scripts that help with upgrading to a different major version of Ubuntu (Python)
 * [Parhelion](https://github.com/wheelercj/Parhelion) - a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Docker)
 * [todo](https://github.com/wheelercj/todo) - a command-line tool that creates new Todoist tasks (Python)
 * [find-deps](https://github.com/wheelercj/find-deps) - Search all JavaScript or Python dependency lists on your device (Python)

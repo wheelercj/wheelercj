@@ -26,6 +26,7 @@ Here are some of my projects:
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=for-the-badge&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-333333.svg?logo=gnubash&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=for-the-badge&logoColor=white)

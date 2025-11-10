@@ -9,7 +9,6 @@ Here are some projects I've worked on:
 * [upgrade-ubuntu](https://github.com/wheelercj/upgrade-ubuntu) - scripts that help with upgrading to a different major version of Ubuntu (Python)
 * [Parhelion](https://github.com/wheelercj/Parhelion) - a Discord bot for answering FAQs, translating, sending reminders, and more (Python, PostgreSQL, Docker)
 * [todo](https://github.com/wheelercj/todo) - a command-line tool that creates new Todoist tasks (Python)
-* [find-deps](https://github.com/wheelercj/find-deps) - Search all JavaScript or Python dependency lists on your device (Python)
 * [zq](https://github.com/wheelercj/zq) - a timer for easy Zoom meeting queueing (Python, Qt for Python, SQLite)
 * [Terminal Paint](https://github.com/wheelercj/terminal-paint) - like Windows Paint but in the terminal and with any Unicode characters (C++)
 
